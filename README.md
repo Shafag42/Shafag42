@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Shafag42/Shafag42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/rashadmusayev"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rmusayevr"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://linkedin.com/in/shafag-abdullayeva"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 </p>
