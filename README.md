@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👩🏾‍💻 About Me
 - 🔭 I’m currently working on **Azerpost LLC**
-- 📫 How to reach me: **shefeqa24@gmail.com**
+- 📫 How to reach me: **shafagaabdullayeva@gmail.com**
 
 ## 🚀 Languages and Technologies:
 <p align="left"> 
