@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java, spring, spring security, JPA, Hibernate mongodb, postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring, spring security, JPA, Hibernate, mongodb, postgres" />
   <img src="https://skillicons.dev/icons?i=docker, git, postman" />
 </p>
 
