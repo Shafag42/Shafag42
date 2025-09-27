@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Backend Developer</h3>
 
 ## 👩🏾‍💻 About Me
-- 🔭 I’m currently working on **Azerpost LLC**
+- 🔭 I’m currently working on **CaspianTech**
 - 📫 How to reach me: **shafagaabdullayeva@gmail.com**
 
 ## 🚀 Languages and Tools
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java, spring, spring security, JPA, Hibernate mongodb, postgres" />
+  <img src="https://skillicons.dev/icons?i=docker, git, postman" />
 </p>
 
 <hr>
