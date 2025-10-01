@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate, mongodb, postgres" />
-  <img src="https://skillicons.dev/icons?i=docker, git, postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
 </p>
 
 <hr>
